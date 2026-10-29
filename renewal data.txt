@@ -1,0 +1,5 @@
+M001 - Monthly Renewal
+M002 - Quarterly Renewal
+M003 - Yearly Renewal
+M004 - Monthly Renewal
+M005 - Yearly Renewal
